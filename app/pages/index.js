@@ -40,7 +40,7 @@ export default function Home() {
           molestias rem, qui aperiam accusantium quos? Vel suscipit et nam esse
           ipsum. Placeat
         </p>
-        <Link href="/galaxy/planetsList">
+        <Link href="/galaxy">
           <a className={styles.btn}>See planet listing</a>
         </Link>
       </div>

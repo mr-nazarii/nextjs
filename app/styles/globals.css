@@ -42,3 +42,8 @@ footer {
   color: #4979ff;
   text-decoration: underline;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}

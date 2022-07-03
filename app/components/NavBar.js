@@ -14,7 +14,7 @@ const NavBar = () => {
       <Link href="/about">
         <a>About</a>
       </Link>
-      <Link href="/galaxy/planetsList">
+      <Link href="/galaxy">
         <a>Planet Listing</a>
       </Link>
     </nav>
