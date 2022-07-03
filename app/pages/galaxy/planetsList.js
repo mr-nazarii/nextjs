@@ -1,10 +1,16 @@
 import React from "react";
+import Head from "next/head";
 
 const test = () => {
   return (
-    <div>
-      <h1>Planets List</h1>
-    </div>
+    <>
+      <Head>
+        <title>Galaxy | Planet List</title>
+      </Head>
+      <div>
+        <h1>Planets List</h1>
+      </div>
+    </>
   );
 };
 

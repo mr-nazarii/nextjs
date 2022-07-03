@@ -1,10 +1,16 @@
 import React from "react";
+import Head from "next/head";
 
 const index = () => {
   return (
-    <div>
-      <h1>Galaxy</h1>
-    </div>
+    <>
+      <Head>
+        <title>Galaxy | Galaxies</title>
+      </Head>
+      <div>
+        <h1>Galaxy</h1>
+      </div>
+    </>
   );
 };
 
